@@ -1,0 +1,21 @@
+{
+    "name": "DREX",
+    "website": "https://drex.com",
+    "source_code": "https://github.com/drex",
+    "white_paper": "https://drex.network/developers/#whitepapers",
+    "short_description": "The Drex blockchain is DAG base with dynamically sharding , new contrct mechanism, self managed network.",
+    "description": ""The Drex blockchain is DAG base with dynamically sharding , new contrct mechanism, self managed network.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Drex",
+            "handle": "Drex"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/r/AionNetwork",
+            "handle": "DrexNetwork"
+        }
+    ],
+    "explorer": "None"
+}
